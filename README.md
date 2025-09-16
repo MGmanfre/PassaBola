@@ -3,8 +3,17 @@
 O **Passa Bola** é uma plataforma digital criada para **promover igualdade e oportunidades no futebol feminino**, oferecendo uma solução inovadora para atletas, torcedores e organizadores de eventos esportivos.
 ---
 
-## 🚀 Objetivo  
-Dar visibilidade ao futebol feminino, combatendo preconceitos, ampliando o acesso a campeonatos, fornecendo ferramentas de gestão e criando um espaço de engajamento e representatividade.  
+## Objetivo  
+Dar visibilidade ao futebol feminino, combatendo preconceitos, ampliando o acesso a campeonatos, fornecendo ferramentas de gestão e criando um espaço de engajamento e representatividade.
+
+## Projeto em desenvolvimento
+Caso queira ter acesso ao site:
+- **entre no codespaces**
+- **Abra o terminal**
+- **Escreva os seguintes comandos:**
+  ``cd FeminineFooty
+  npm install -g npm@11.6.0
+  npm run dev``
 
 ---
 
