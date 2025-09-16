@@ -11,8 +11,11 @@ Caso queira ter acesso ao site:
 - **entre no codespaces**
 - **Abra o terminal**
 - **Escreva os seguintes comandos:**
+  
   ``cd FeminineFooty
+  
   npm install -g npm@11.6.0
+  
   npm run dev``
 
 ---
