@@ -8,7 +8,7 @@ Dar visibilidade ao futebol feminino, combatendo preconceitos, ampliando o acess
 
 ## Projeto em desenvolvimento
 Caso queira ter acesso ao site:
-- **entre no codespaces**
+- **Entre no codespaces**
 - **Abra o terminal**
 - **Escreva os seguintes comandos:**
   
