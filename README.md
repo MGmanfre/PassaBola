@@ -12,11 +12,11 @@ Caso queira ter acesso ao site:
 - **Abra o terminal**
 - **Escreva os seguintes comandos:**
   
-  ``cd FeminineFooty
+  ``cd FeminineFooty``
   
-  npm install -g npm@11.6.0
+  ``npm install -g npm@11.6.0``
   
-  npm run dev``
+  ``npm run dev``
 
 ---
 
